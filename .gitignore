@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+# But allow images
+!.gitignore
+!*.jpg
+!*.jpeg
+!*.png
+!*.gif
+!*.webp
+!*.svg
+!images/
+!assets/
